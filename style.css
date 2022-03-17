@@ -26,6 +26,7 @@
 }
 #img-galeria:hover{
     border: solid green 10px;
+    cursor: pointer;
 }
 footer{
     text-align: center;
