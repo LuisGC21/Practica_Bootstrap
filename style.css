@@ -1,0 +1,34 @@
+.navegacion{
+    position: fixed; 
+    width: 100%;
+}
+.contenido{
+    margin-left: 20px; 
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+.galeria{
+    width: 100%;
+    padding-top: 60px;
+    text-align: center;
+}
+.div-img{
+    width: 45%;
+    text-align: center;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 15px;
+}
+#img-galeria{ 
+    width: 100%; 
+    height: 50ch;
+    margin-bottom: 30px;
+}
+#img-galeria:hover{
+    border: solid green 10px;
+}
+footer{
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 30px;
+}
